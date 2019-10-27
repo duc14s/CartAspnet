@@ -1,0 +1,3 @@
+//Add 1 Item to Cart
+ShoppingCart cart = ShoppingCart.Instance;
+cart.AddItem(intpid, strS, IdUser);
